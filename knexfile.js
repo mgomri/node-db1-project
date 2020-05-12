@@ -14,7 +14,7 @@ module.exports = {
     },
   },
 
-  // update the following configuration to use PostgreSQL
+  // // update the following configuration to use PostgreSQL
   production: {
     client: "pg",
     connection: {
